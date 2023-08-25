@@ -1,0 +1,35 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+    border-bottom: 2px solid grey;
+    font-size: 62px;
+}
+
+p{
+    font-size: 48px;
+    text-align: center;
+}
+
+a{
+    font-size: 48px;
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 2px;
+    margin: 2px;
+    background-color:beige;
+
+}
+
+div.recipes{
+    padding: 10px;
+    text-align: center;
+
+
+}
+
+a:hover{
+    background-color: rgb(163, 163, 152);
+}
